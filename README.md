@@ -71,11 +71,7 @@ Become a Software Development Engineer and build impactful AI-powered applicatio
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SOUVIKKONAR&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUVIKKONAR&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats-five-mauve-27.vercel.app/api?username=SOUVIKKONAR&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -83,9 +79,7 @@ Become a Software Development Engineer and build impactful AI-powered applicatio
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SOUVIKKONAR&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=SOUVIKKONAR&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
