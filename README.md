@@ -87,9 +87,7 @@ Become a Software Development Engineer and build impactful AI-powered applicatio
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SOUVIKKONAR&theme=tokyonight&no-frame=true&margin-w=15"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SOUVIKKONAR&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
