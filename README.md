@@ -138,21 +138,29 @@ AI-powered Garbage & Pothole Detection
 
 ---
 
+---
+
 # 💻 Coding Profiles
 
 <p align="center">
 
-<a href="https://leetcode.com/u/souvikkonar/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<a href="https://leetcode.com/u/souvikkonar/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/profile/sk5305" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+<a href="https://www.hackerrank.com/profile/sk5305">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
+
+<p align="center">
+<a href="https://leetcode.com/u/souvikkonar/">🔗 LeetCode</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/sk5305">🔗 HackerRank</a>
+</p>
+
 ---
 
 # 📈 Activity Graph
