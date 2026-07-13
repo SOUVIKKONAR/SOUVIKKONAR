@@ -136,15 +136,23 @@ AI-powered Garbage & Pothole Detection
 
 ---
 
+---
+
 # 💻 Coding Profiles
 
-Coming Soon...
+<p align="center">
 
-- LeetCode
-- CodeChef
-- HackerRank
-- Codeforces
+<a href="https://leetcode.com/u/souvikkonar/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
 
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/profile/sk5305" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+</p>
 ---
 
 # 📈 Activity Graph
