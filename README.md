@@ -42,123 +42,30 @@ Become a Software Development Engineer and build impactful AI-powered applicatio
 
 ## 🚀 Tech Stack
 
-### Languages
+### 💻 Languages
 
-<p align="center">
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" width="65"/><br>Python
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.oracle.com/java/" target="_blank">
-<img src="https://skillicons.dev/icons?i=java" width="65"/><br>Java
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://en.cppreference.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=c" width="65"/><br>C
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cpp" width="65"/><br>C++
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=javascript" width="65"/><br>JavaScript
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=typescript" width="65"/><br>TypeScript
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html" width="65"/><br>HTML5
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-<img src="https://skillicons.dev/icons?i=css" width="65"/><br>CSS3
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>MySQL
-</a>
-</p>
+| <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="65"/><br><sub><b>Python</b></sub></a> | <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="65"/><br><sub><b>Java</b></sub></a> | <a href="https://en.cppreference.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="65"/><br><sub><b>C</b></sub></a> | <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="65"/><br><sub><b>C++</b></sub></a> | <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="65"/><br><sub><b>JavaScript</b></sub></a> | <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" width="65"/><br><sub><b>TypeScript</b></sub></a> | <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="65"/><br><sub><b>HTML5</b></sub></a> | <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="65"/><br><sub><b>CSS3</b></sub></a> | <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="65"/><br><sub><b>MySQL</b></sub></a> |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 
 ---
 
-### Frameworks
+### ⚡ Frameworks
 
-<p align="center">
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=django" width="65"/><br>Django
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=react" width="65"/><br>React
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br>Node.js
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=express" width="65"/><br>Express
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br>Tailwind
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://getbootstrap.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="65"/><br>Bootstrap
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=flask" width="65"/><br>Flask
-</a>
-</p>
+| <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="65"/><br><sub><b>Django</b></sub></a> | <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="65"/><br><sub><b>React</b></sub></a> | <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br><sub><b>Node.js</b></sub></a> | <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="65"/><br><sub><b>Express</b></sub></a> | <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br><sub><b>Tailwind</b></sub></a> | <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="65"/><br><sub><b>Bootstrap</b></sub></a> | <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="65"/><br><sub><b>Flask</b></sub></a> |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 
 ---
 
-### AI / ML
+### 🤖 AI / ML
 
-<p align="center">
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="65"/><br>TensorFlow
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=pytorch" width="65"/><br>PyTorch
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://opencv.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=opencv" width="65"/><br>OpenCV
-</a>
-</p>
-
+| <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="65"/><br><sub><b>TensorFlow</b></sub></a> | <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="65"/><br><sub><b>PyTorch</b></sub></a> | <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="65"/><br><sub><b>OpenCV</b></sub></a> |
+| :-: | :-: | :-: |
 ---
 
-### Tools
+### 🛠 Tools
 
-<p align="center">
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" width="65"/><br>Git
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="65"/><br>GitHub
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>VS Code
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=postman" width="65"/><br>Postman
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linux" width="65"/><br>Linux
-</a>
-</p>
+| <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="65"/><br><sub><b>Git</b></sub></a> | <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="65"/><br><sub><b>GitHub</b></sub></a> | <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="65"/><br><sub><b>VS Code</b></sub></a> | <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="65"/><br><sub><b>Postman</b></sub></a> | <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="65"/><br><sub><b>Linux</b></sub></a> |
+| :-: | :-: | :-: | :-: | :-: |
 
 ---
 
